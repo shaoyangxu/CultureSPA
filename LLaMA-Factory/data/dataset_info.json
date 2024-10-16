@@ -1,0 +1,11 @@
+{
+  "CultureSPA_culture_aware": {
+    "file_name": "CultureSPA_culture_aware.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  }
+}
