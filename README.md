@@ -97,6 +97,7 @@ llamafactory-cli train CultureSPA_culture_aware.yaml
 After these steps, we can obtain the model CultureSPA. Please edit these scripts to obtain variants like CultureSPA (CCT), CultureSPA (secific).
 
 # Citation
+```bibtex
 @article{FuxiTranyu8B,
       title={Self-Pluralising Culture Alignment for Large Language Models}, 
       author={Shaoyang Xu, Yongqi Leng, Linhao Yu, Deyi Xiong},
