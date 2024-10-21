@@ -98,7 +98,7 @@ After these steps, we can obtain the model CultureSPA. Please edit these scripts
 
 # Citation
 ```bibtex
-@article{FuxiTranyu8B,
+@article{CultureSPA,
       title={Self-Pluralising Culture Alignment for Large Language Models}, 
       author={Shaoyang Xu, Yongqi Leng, Linhao Yu, Deyi Xiong},
       journal={arxiv preprint arXiv:2410.12971},
