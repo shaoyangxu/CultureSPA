@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to the official repository of our paper titled 《Self-Pluralising Culture Alignment for Large Language Models》. 
+Welcome to the official repository of our paper [Self-Pluralising Culture Alignment for Large Language Models](https://arxiv.org/abs/2410.12971). 
 
 Data resources used in experiments are download from [the World Values Survey Wave 7 (2017-2022)](https://www.worldvaluessurvey.org/WVSDocumentationWV7.jsp). We implemented the SFT for CultureSPA based on [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory).
 
