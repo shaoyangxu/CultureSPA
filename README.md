@@ -1,3 +1,7 @@
+# Update
+
+[2025/1/23] accepted by NAACL25 main conference.
+
 # Introduction
 
 Welcome to the official repository of our paper [Self-Pluralising Culture Alignment for Large Language Models](https://arxiv.org/abs/2410.12971). 
