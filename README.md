@@ -1,5 +1,7 @@
 # Update
 
+[2025/6/27] we released the weight of CultureSPA model in https://huggingface.co/beiweixiaoxu/CultureSPA
+
 [2025/1/23] accepted by NAACL25 main conference.
 
 # Introduction
